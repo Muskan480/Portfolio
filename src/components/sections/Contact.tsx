@@ -63,7 +63,6 @@ export default function Contact() {
           className="mt-32 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted font-mono"
         >
           <p>© 2026 MUSKAN. ALL RIGHTS RESERVED.</p>
-          <p>BUILT WITH REACT & MOTION</p>
         </motion.div>
       </div>
     </section>
